@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow"> </img>
 </div>
 
-<h2> <i class="fas fa-home"></i> Previsor e Recomendador de Preços de Imóveis para o Rio de Janeiro </h2>
+<h2> <i class="fas fa-home"></i> Recomendador de Preços de Imóveis para o Rio de Janeiro </h2>
 <p>
 O objetivo deste projeto é auxiliar a imobiliária InsightPlaces a superar as dificuldades que vem enfrentando na locação e venda de imóveis na cidade do Rio de Janeiro. Através da análise de dados históricos de preços de imóveis e da utilização de técnicas de aprendizado de máquina, buscamos desenvolver um modelo capaz de prever de forma precisa os valores de imóveis e criar um sistema de recomendação para imóveis em diferentes bairros da cidade.
 </p>
