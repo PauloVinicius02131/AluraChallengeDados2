@@ -17,6 +17,8 @@ os.environ['PYSPARK_DRIVER_PYTHON'] = sys.executable
 
 app = FastAPI()
 
+# teste
+
 @app.get("/")
 def read_root():
     return {"Hello": "World"}   
